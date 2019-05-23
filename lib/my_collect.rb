@@ -3,4 +3,3 @@ def my_collect(array)
   while count < array.length
     yield
 end
-
